@@ -85,7 +85,7 @@ export const SignUpCard = () => {
                 <FormMessage />
               </FormItem>
             )} />
-            <Button className='w-full' disabled={false} size="lg">Login</Button>
+            <Button className='w-full' disabled={false} size="lg">Sign Up</Button>
           </form>
         </Form>
       </CardContent>
